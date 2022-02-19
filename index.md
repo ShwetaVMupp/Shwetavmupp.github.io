@@ -9,7 +9,7 @@
 <div class="left"></div>
 <div class="stuff">
   <br><br>
-  <h1>Resume</h1>
+  <h1 style="color:Red">Resume</h1>
   <h2>Shweta Karadagimath</h2>
   <h3>BITS Pilani Student at M.Tech in Software Engineering</h3>
   <hr />
