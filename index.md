@@ -14,7 +14,7 @@
   <h3>BITS Pilani Student at M.Tech in Software Engineering</h3>
   <hr />
   <br>
-  <p class="head"><u>Professional Summary</u></p>
+  <p class="head"><h3>PROFESSIONAL SUMMARY</h3></p>
   <ul>
     <li>Shweta have 1+ Year of Experience in the field Technical support, in Tata consultancy services.</li>
     <li>Good Knowledge in Python and have completed my certifications in Python.</li>
@@ -22,7 +22,7 @@
   
   </ul>
   <br>
-  <p class="head">Interests</p>
+  <p class="head">INTERESTS</p>
   <ul>
     <li>Drawing</li>
     <li>Photography</li>
@@ -30,7 +30,7 @@
     <li>Programming</li>
     <li>Computer Science</li>
   </ul><br>
-  <p class="head">Skills</p>
+  <p class="head">SKILLS</p>
   <ul>
     <li>Web Design with HTML & CSS</li>
     <li>Python</li>
@@ -39,7 +39,7 @@
     <li>Python</li>
     <li>C++</li>
   </ul><br>
-  <p class="head">Education</p>
+  <p class="head">EDUCATION</p>
   <ul>
     
     
@@ -49,12 +49,12 @@
       <li>BITS Pilani'2023</li>
     
   </ul><br>
-  <p class="head"><u>Experience</u></p>
+  <p class="head"><u>EXPERIENCE</u></p>
   <ul>
     <li>Daffodils Media Communication--  November 2019 to Present</li>
     <li>Technical support in PWC project at Tata Consultancy Services --  July 2018 to November 2019</li>
   </ul><br>
-  <p class="head">Extracurriculars</p>
+  <p class="head">EXTRA CURRICULARS</p>
   <ul>
     <li>Recycling Club</li>
     <li>Gardening Club</li>
