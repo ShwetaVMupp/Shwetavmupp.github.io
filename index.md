@@ -22,7 +22,7 @@
   
   </ul>
   <br>
-  <p class="head">INTERESTS</p>
+  <p class="head"><h3>INTERESTS</h3></p>
   <ul>
     <li>Drawing</li>
     <li>Photography</li>
@@ -30,7 +30,7 @@
     <li>Programming</li>
     <li>Computer Science</li>
   </ul><br>
-  <p class="head">SKILLS</p>
+  <p class="head"><h3>SKILLS</h3></p>
   <ul>
     <li>Web Design with HTML & CSS</li>
     <li>Python</li>
@@ -39,7 +39,7 @@
     <li>Python</li>
     <li>C++</li>
   </ul><br>
-  <p class="head">EDUCATION</p>
+  <p class="head"><h3>EDUCATION</h3></p>
   <ul>
     
     
@@ -49,12 +49,12 @@
       <li>BITS Pilani'2023</li>
     
   </ul><br>
-  <p class="head"><u>EXPERIENCE</u></p>
+  <p class="head"><u><h3>EXPERIENCE</h3></u></p>
   <ul>
     <li>Daffodils Media Communication--  November 2019 to Present</li>
     <li>Technical support in PWC project at Tata Consultancy Services --  July 2018 to November 2019</li>
   </ul><br>
-  <p class="head">EXTRA CURRICULARS</p>
+  <p class="head"><h3>EXTRA CURRICULARS</h3></p>
   <ul>
     <li>Recycling Club</li>
     <li>Gardening Club</li>
