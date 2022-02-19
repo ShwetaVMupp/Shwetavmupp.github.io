@@ -9,12 +9,12 @@
 <div class="left"></div>
 <div class="stuff">
   <br><br>
-  <h1 style="color:Red">Resume</h1>
-  <h2>Shweta Karadagimath</h2>
-  <h3>BITS Pilani Student at M.Tech in Software Engineering</h3>
+  <h1 style="color:#0000ad">Resume</h1>
+  <h2 style="color:#0000ad">Shweta Karadagimath</h2>
+  <h3 style="color:#0000ad">BITS Pilani Student at M.Tech in Software Engineering</h3>
   <hr />
   <br>
-  <p class="head"><h3>PROFESSIONAL SUMMARY</h3></p>
+  <p class="head"><h3><u>PROFESSIONAL SUMMARY</u></h3></p>
   <ul>
     <li>Shweta have 1+ Year of Experience in the field Technical support, in Tata consultancy services.</li>
     <li>Good Knowledge in Python and have completed my certifications in Python.</li>
@@ -22,7 +22,7 @@
   
   </ul>
   <br>
-  <p class="head"><h3>INTERESTS</h3></p>
+  <p class="head"><h3><u>INTERESTS</u></h3></p>
   <ul>
     <li>Drawing</li>
     <li>Photography</li>
@@ -30,7 +30,7 @@
     <li>Programming</li>
     <li>Computer Science</li>
   </ul><br>
-  <p class="head"><h3>SKILLS</h3></p>
+  <p class="head"><h3><u>SKILLS</u></h3></p>
   <ul>
     <li>Web Design with HTML & CSS</li>
     <li>Python</li>
@@ -39,7 +39,7 @@
     <li>Python</li>
     <li>C++</li>
   </ul><br>
-  <p class="head"><h3>EDUCATION</h3></p>
+  <p class="head"><h3><u>EDUCATION</u></h3></p>
   <ul>
     
     
@@ -54,7 +54,7 @@
     <li>Daffodils Media Communication--  November 2019 to Present</li>
     <li>Technical support in PWC project at Tata Consultancy Services --  July 2018 to November 2019</li>
   </ul><br>
-  <p class="head"><h3>EXTRA CURRICULARS</h3></p>
+  <p class="head"><h3><u>EXTRA CURRICULARS</u></h3></p>
   <ul>
     <li>Recycling Club</li>
     <li>Gardening Club</li>
