@@ -14,7 +14,7 @@
   <h3>BITS Pilani Student at M.Tech in Software Engineering</h3>
   <hr />
   <br>
-  <p class="head">Professional Summary</p>
+  <p class="head"><u>Professional Summary</u></p>
   <ul>
     <li>Shweta have 1+ Year of Experience in the field Technical support, in Tata consultancy services.</li>
     <li>Good Knowledge in Python and have completed my certifications in Python.</li>
