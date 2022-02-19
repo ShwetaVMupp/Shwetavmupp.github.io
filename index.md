@@ -39,7 +39,7 @@
     <li>Python</li>
     <li>C++</li>
   </ul><br>
-  <p class="head">Education</p>
+  <p class="head"><u>Education</u></p>
   <ul>
     
     
@@ -51,7 +51,7 @@
   </ul><br>
   <p class="head">Experience</p>
   <ul>
-    <li>SDE2 @Connectwise LLC --  November 2021 to Present</li>
+    <li>Daffodils Media Communication--  November 2019 to Present</li>
     <li>Technical support in PWC project at Tata Consultancy Services --  July 2018 to November 2019</li>
   </ul><br>
   <p class="head">Extracurriculars</p>
