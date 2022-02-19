@@ -39,7 +39,7 @@
     <li>Python</li>
     <li>C++</li>
   </ul><br>
-  <p class="head"><u>Education</u></p>
+  <p class="head">Education</p>
   <ul>
     
     
@@ -49,7 +49,7 @@
       <li>BITS Pilani'2023</li>
     
   </ul><br>
-  <p class="head">Experience</p>
+  <p class="head"><u>Experience</u></p>
   <ul>
     <li>Daffodils Media Communication--  November 2019 to Present</li>
     <li>Technical support in PWC project at Tata Consultancy Services --  July 2018 to November 2019</li>
